@@ -1,0 +1,141 @@
+body{
+	margin-left: 0px; 
+	margin-top: 0px;
+	margin-right: 0px;
+}
+
+.franjaarriba{
+	background-color:#33cc33;	
+	width: 100%;
+	height: 20px;
+}
+
+.franjaabajo{
+	background-color:#66ff33;	
+	width: 100%;
+	height: 100px;
+	float: left;
+	border-radius:0px 0px 10px 10px;
+}
+
+.logo{
+	color: white;
+	font-weight: bold;
+	font-size:  1.7em;
+	padding: 2.5%;
+	padding-left: 80px;
+	float: left;
+}
+
+.logo a  {
+	text-decoration: none;	
+	color: white;
+}
+
+.menu li{
+	font-weight: bold;
+	font-size:  1.5em;
+	list-style: none;
+	float: left;
+	margin-top: 3.3%;
+	padding-right: 0.8%;
+	padding-left: 0.8%;
+}
+
+.menu .primero{
+	padding-left: 35%;
+}
+
+.menu .cuarto{
+	float:right;
+	padding-right: 10%;
+}
+
+.menu li a{
+	text-decoration: none;
+	color: white;	
+	
+}
+
+.titulo{
+	text-align: center;
+	margin-top: 10%;
+}
+
+.foto {
+	width:80%;
+	height: 400px;
+	margin-left: 10%;
+	margin-right: 10%;
+}
+
+.textoportada {
+	border-style:dashed;
+	border-color: #009900;
+	margin-right: 10%;
+	margin-left: 10%;
+	font-size: large;
+	padding: 1%;
+}
+
+.footer{	
+	width: 100%;
+}
+
+.franjaarribafooter{
+	background-color:#66ff33;	
+	width: 100%;
+	height: 100px;
+	margin-top:1%;
+	float: left;
+	border-radius:10px 5px 0px 0px;
+}
+.copyright{
+	float: left;
+	margin-top: 60px;
+	margin-left: 30px;
+	font-size: 1.3em;
+	color: white;
+	font-weight: bold;
+}
+.redes{
+	margin-left: 70%;
+	margin-top: 4.3%;
+	font-size: 1.3em;
+	color: white;
+	font-weight: bold;
+	width: 40%;
+}
+
+.textoredes{
+	float: left;
+}
+.imagenesredes ul li{
+	list-style: none;
+	
+}
+.twitter{
+	width:7%;
+	float: left;
+	margin-left: 10px;
+}
+.instagram{
+	width:10%;
+	float: left;
+	margin-left: 1%;
+	margin-bottom: 10px;
+	margin-top: -1.4%;
+}
+.youtube{
+	width:7.5%;
+	margin-left: 1%;
+	margin-top: -0.4%;
+	float: left;
+}
+.franjaabajofooter{
+	background-color:#33cc33;	
+	width: 100%;
+	height: 20px;
+	float: left;
+}
+
